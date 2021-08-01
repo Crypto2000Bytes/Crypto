@@ -1,5 +1,1 @@
-# Crypto
-# Crypto
-# Crypto
-# Crypto
-# Crypto
+# Crypto: Code made for blog.
